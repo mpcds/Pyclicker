@@ -6,6 +6,7 @@
 🟡 - Bypasses decently (risky)
 🔴 - Does not bypass at all (DONT USE)
 ```
+## Bypasses
 We utilize modules like win32api, which replace C++ and c#'s Windows API.  This has been tested on the following anti-cheat test servers.
 
 
