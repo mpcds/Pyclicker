@@ -1,0 +1,8 @@
+win32gui 
+win32api
+win32con
+ctypes
+threading
+time
+random
+customtkinter
