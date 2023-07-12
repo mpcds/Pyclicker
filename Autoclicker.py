@@ -49,7 +49,7 @@ def blockhit():
             win32api.mouse_event(win32con.MOUSEEVENTF_RIGHTDOWN, 0, 0, 0, 0)
             time.sleep(0.025)
             win32api.mouse_event(win32con.MOUSEEVENTF_RIGHTUP, 0, 0, 0, 0)
-        time.sleep(random.uniform(0.23, 0.33))
+        time.sleep(random.uniform(0.9, 1.1))
 
 def clicker():
     global toggled
