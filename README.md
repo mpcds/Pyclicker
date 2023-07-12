@@ -1,4 +1,4 @@
-# lunarclientclicker
+# 🥧 Clicker
 **This is an auto clicker coded in 100% Python.**
 ## Key
 ```
